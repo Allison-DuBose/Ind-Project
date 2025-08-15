@@ -1,5 +1,5 @@
 
-# Project - Car Performance & Value Analysis
+# Project - Higher Education Consulting Analytics
 
 In this project we took data about cars companies, models, engines, CC/battery capacities, horsepower, top speed, 0-100 km/h performance, prices (in US dollars), fuel types, seating capacity, and torque from 2025. This covers a wide variety of cars from EVs to standard fuel, sports cars to utility vans, and luxury to standard model cars. We sought to provide insights on how performance an price are related, is title really everything in price, how fast are the fastest cars going and other information that might interest car buers and enthusiasts.
 
